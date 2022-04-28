@@ -7,8 +7,8 @@
 </p>
 <p align="center">
 -   <div> <p align="center">
-- Half way to Full Stack MERN Dev
-- I pledged myself I'll start to educate 1000 kids after the day I reach at my target.✌️
+- Half way to Full Stack MERN Dev. <br/>
+- I pledged myself I'll start to educate 1000 kids after the day I reach at my target.<br/>
 - Please listen to some of My Playlist Until I reach there.</div> <br/>
  
     ### Now Playing 🎧
