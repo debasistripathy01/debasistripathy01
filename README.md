@@ -28,7 +28,7 @@
   
 
 
-   <img alt="Debasis's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=debasistripathy1&theme=react&hide_border=true&bg_color=##FF9E0F" />
+   <img alt="Debasis's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=debasistripathy01&theme=react&hide_border=true&bg_color=##FF9E0F" />
     
 
 
@@ -55,9 +55,9 @@
   <br/>
   <br/>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=debasistripathy1&label=Profile%20views&color=0e75b6&style=flat" alt="debasistripathy1" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=debasistripathy01&label=Profile%20views&color=0e75b6&style=flat" alt="debasistripathy01" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=debasistripathy1&show_icons=true&theme=gotham" alt="debasistripathy1" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=debasistripathy1&show_icons=true&theme=gotham" alt="debasistripathy01" />
  <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=debasistripathy1"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=debasistripathy01"/>
  </p>
