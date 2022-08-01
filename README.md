@@ -57,7 +57,7 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=debasistripathy01&label=Profile%20views&color=0e75b6&style=flat" alt="debasistripathy01" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=debasistripathy1&show_icons=true&theme=gotham" alt="debasistripathy01" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=debasistripathy01&show_icons=true&theme=gotham" alt="debasistripathy01" />
  <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=debasistripathy01"/>
  </p>
