@@ -13,7 +13,7 @@
  
     ### Now Playing 🎧
  
- [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31yupsz77rcgljagf4kqpcjqzznu?)<br/>
+ [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31yupsz77rcgljagf4kqpcjqzznu?)]<br/>
 </p>
 
 <h3 align="center">My TTS (TOOL,TECH & Specifications) 🛠️:</h3>
@@ -47,6 +47,8 @@
     <a href="https://in.linkedin.com/in/debasis-tripathy"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=red"></a>
     <a href="https://twitter.com/Dev_Tripathy_"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   
+  [![Dev's github activity graph](https://activity-graph.herokuapp.com/graph?username=debasistripathy01&theme=dracula)]
+
 </p>
 <p align="center">
   You can Support my work by Sharing and giving a ⭐ to my repositories
@@ -61,3 +63,4 @@
  <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=debasistripathy01"/>
  </p>
+ 
