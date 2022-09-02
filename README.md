@@ -28,7 +28,7 @@
   
 
 
-   <img alt="Debasis's streak" src="#" />
+   <img alt="Debasis's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=debasistripathy01&theme=react&hide_border=true&bg_color=##FF9E0F" />
 
 
 </p>
