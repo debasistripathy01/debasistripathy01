@@ -106,4 +106,12 @@
  <img src="https://komarev.com/ghpvc/?username=debasistripathy01&label=Profile%20views&color=0e75b6&style=flat" alt="debasistripathy01" />
 </div>
  
+<div>
+  <p align='center'><b>🏆 Github Achievements</b></p><br/>
+  <p align="center"> <a href="https://github.com/debasistripathy01"><img src="https://github-profile-trophy.vercel.app/?username=debasistripathy01&margin-w=5&theme=radical" alt="Debasis" /></a> </p>
+</div>
+<div>
+  <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
+  <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debasistripathy01&theme=github_dark" alt="Debasis Tripathy" align = "center"/></p>
+</div>
 
