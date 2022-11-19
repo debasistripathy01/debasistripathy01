@@ -9,7 +9,15 @@
 -   <div> <p align="center">
 - Half way to Full Stack MERN Dev. <br/>
 - I pledged myself I'll start to educate 1000 kids after the day I reach at my target.<br/>
-- Please listen to some of My Playlist Until I reach there.</div> <br/>
+- Please listen to some of My Playlist Until I reach there.</div>
+
+<div align='center'>
+
+  ![age](https://img.shields.io/badge/age-24-blue&height="20")
+  ![living](https://img.shields.io/badge/living-Bangalore,Karnataka)
+  ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-orange)
+</div>
+
  <div align="center">
     ### Now Playing 🎧
  
@@ -115,3 +123,10 @@
   <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debasistripathy01&theme=github_dark" alt="Debasis Tripathy" align = "center"/></p>
 </div>
 
+<div align="center">
+  <h3>Best of My Works</h3>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=debasistripathy01&repo=Real-Time-DataBaseTransactionSystem&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=debasistripathy01&repo=Licious&theme=react&langs_count=5"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deabsistripathy01&repo=Project1&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=debasistripathy01&repo=ASOS_Project&theme=react&langs_count=5"/>
+</div>
