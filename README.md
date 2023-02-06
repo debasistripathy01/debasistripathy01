@@ -125,8 +125,8 @@
 
 <div align="center">
   <h3>Best of My Works</h3>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=debasistripathy01&repo=Real-Time-DataBaseTransactionSystem&theme=react"/>
-<!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=debasistripathy01&repo=Licious&theme=react&langs_count=5"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=debasistripathy01&repo=Shop-It-Easy&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=debasistripathy01&repo=Shopping-world&theme=react&langs_count=5"/>
 <!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=deabsistripathy01&repo=Project1&theme=react"/> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=debasistripathy01&repo=ASOS_Project&theme=react&langs_count=5"/> -->
 </div>
