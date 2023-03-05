@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Dev, Here!!👋</h1>
-<h3 align="center"> Aspiring Full Stack Developer with An Electrical Degree 👨‍💻 </h3>
+<h3 align="center"> Software Engineer with An Electrical Degree 👨‍💻 </h3>
 <p align="center">
 -   🌱 <b><I>I CODE, CONNECT & CREATE</I></b> <br/>
 -   🤝 Any type of Project Proposal is invited. <br/>
