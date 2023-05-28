@@ -14,7 +14,7 @@
 <div align='center'>
 
   ![age](https://img.shields.io/badge/age-25.6-blue&height="20")
-  ![living](https://img.shields.io/badge/Living-Life-to-the-Fullest-Bangalore,Karnataka)
+  ![living](https://img.shields.io/badge/Living_Life_to_the_Fullest-Bangalore,Karnataka)
   ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-orange)
 </div>
 
