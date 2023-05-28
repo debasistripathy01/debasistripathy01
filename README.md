@@ -7,14 +7,14 @@
 </p>
 <p align="center">
 -   <div> <p align="center">
-- Half way to Full Stack MERN Dev. <br/>
+- Full Stack MERN Dev. <br/>
 - I pledged myself I'll start to educate 1000 kids after the day I reach at my target.<br/>
-- Please listen to some of My Playlist Until I reach there.</div>
+- Please listen to some of My Playlist that I'm collecting during the Journey.</div>
 
 <div align='center'>
 
   ![age](https://img.shields.io/badge/age-25.6-blue&height="20")
-  ![living](https://img.shields.io/badge/living-Bangalore,Karnataka)
+  ![living](https://img.shields.io/badge/Living Life Fullest-Bangalore,Karnataka)
   ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-orange)
 </div>
 
